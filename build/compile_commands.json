@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/christossiantsis/Desktop/DSP/Yfaverb/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/Yfaverb.dir/main.cpp.o -c /Users/christossiantsis/Desktop/DSP/Yfaverb/main.cpp",
+  "file": "/Users/christossiantsis/Desktop/DSP/Yfaverb/main.cpp",
+  "output": "CMakeFiles/Yfaverb.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/christossiantsis/Desktop/DSP/Yfaverb/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/Yfaverb.dir/ModeBank.cpp.o -c /Users/christossiantsis/Desktop/DSP/Yfaverb/ModeBank.cpp",
+  "file": "/Users/christossiantsis/Desktop/DSP/Yfaverb/ModeBank.cpp",
+  "output": "CMakeFiles/Yfaverb.dir/ModeBank.cpp.o"
+},
+{
+  "directory": "/Users/christossiantsis/Desktop/DSP/Yfaverb/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/Yfaverb.dir/Mode.cpp.o -c /Users/christossiantsis/Desktop/DSP/Yfaverb/Mode.cpp",
+  "file": "/Users/christossiantsis/Desktop/DSP/Yfaverb/Mode.cpp",
+  "output": "CMakeFiles/Yfaverb.dir/Mode.cpp.o"
+},
+{
+  "directory": "/Users/christossiantsis/Desktop/DSP/Yfaverb/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/Yfaverb.dir/ModalReverbEngine.cpp.o -c /Users/christossiantsis/Desktop/DSP/Yfaverb/ModalReverbEngine.cpp",
+  "file": "/Users/christossiantsis/Desktop/DSP/Yfaverb/ModalReverbEngine.cpp",
+  "output": "CMakeFiles/Yfaverb.dir/ModalReverbEngine.cpp.o"
+}
+]

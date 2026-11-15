@@ -1,0 +1,3 @@
+/Users/christossiantsis/Desktop/DSP/Yfaverb/build/CMakeFiles/Yfaverb.dir
+/Users/christossiantsis/Desktop/DSP/Yfaverb/build/CMakeFiles/edit_cache.dir
+/Users/christossiantsis/Desktop/DSP/Yfaverb/build/CMakeFiles/rebuild_cache.dir

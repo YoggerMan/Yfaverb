@@ -2,8 +2,8 @@
 #include "ModeBank.hpp"
 
 
-ModalReverbEngine::ModalReverbEngine(ModeBank& bank){
-    modeBank = bank;
+ModalReverbEngine::ModalReverbEngine(ModeBank& bank) : modeBank(bank){
+    
     audioBuffer.reserve(maxBlockSize);
 
 }

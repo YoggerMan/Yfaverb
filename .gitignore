@@ -1,0 +1,12 @@
+# CMake build output
+build/
+
+# Compiled binaries and debug symbols
+/Yfaverb
+*.dSYM/
+
+# Generated audio
+out.wav
+
+# macOS
+.DS_Store

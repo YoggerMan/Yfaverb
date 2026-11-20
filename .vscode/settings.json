@@ -1,0 +1,19 @@
+{
+    // Let the CMake Tools extension drive configure/build.
+    "cmake.sourceDirectory": "${workspaceFolder}",
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "cmake.configureOnOpen": true,
+
+    // IntelliSense gets include paths and #defines (JUCE modules,
+    // JucePlugin_* macros) from CMake instead of guessing.
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/build/compile_commands.json",
+    "C_Cpp.default.cppStandard": "c++20",
+
+    // Don't index all of JUCE's examples/extras when searching files.
+    "search.exclude": {
+        "build/**": true,
+        "JUCE/examples/**": true,
+        "JUCE/extras/**": true
+    }
+}
